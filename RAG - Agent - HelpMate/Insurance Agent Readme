@@ -1,0 +1,4 @@
+The ipynb & pdf file details the design and implementation of a comprehensive conversational AI system for insurance policy documents 
+using a pure Lang Chain architecture with FAISS vector store and Groq’s llama-3.3-70b LLM, emphasizing robust document processing, 
+semantic search, multi-turn conversation memory, accurate source citation, and an interactive user interface, while highlighting 
+technical decisions, challenges addressed, performance benchmarks, business benefits, and future enhancements.
